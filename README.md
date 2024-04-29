@@ -21,9 +21,12 @@ Linux Shell Script to lock the shell with a password.
   Hidden file logged/saved.
 - The process id is also saved in a hidden file.
 
-  Usage  (first run) :
 
-  shell_lock.sh --check        = prüft ob alle vorhandenen Programme vorhanden sind.
-  shell_lock.sh --install      =  installiert alle nicht vorhandenen Programme.
-  shell_lock.sh --pass         = neues Passwort erstellen.
-  shell_lock,sh --help         = zeigt ene Hilfe an
+Usage (first run):
+
+   shell_lock.sh --check = checks whether all existing programs are present.
+   shell_lock.sh --install = installs all non-existent programs.
+   shell_lock.sh --pass = create new password.
+   shell_lock,sh --help = show help
+ 
+
