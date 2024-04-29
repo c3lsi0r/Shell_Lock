@@ -26,3 +26,13 @@ Linux Shell Script, um die Shell mit einemPasswort zu sperren.
 - Unbefugte Zugriffe,und auch Autorisierte Zugriffen,werden in einer 
   Versteckten Datei geloggt/gespeichert.
 - Die Prozeß id wird ebenfalls,in eineer versteckten Datei gespeichert.
+
+  Usage  (first run) :
+
+  shell_lock.sh --check       =    prüft ob alle vorhandenen Programme vorhanden sind.
+  shell_lock.sh --install     =    installiert alle nicht vorhandenen Programme.
+  shell_lock.sh --pass        =    neues Passwort erstellen.
+  shell_lock,sh --help        =    zeigt ene Hilfe an
+
+
+  
