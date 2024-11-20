@@ -1,6 +1,5 @@
-Linux Shell Script to lock the shell with a password.
 
-Linux Shell Script to lock the shell with a password.
+Linux Shell Script  to lock the Terminal when leaving the Computer Workstation
  
   Locks the terminal with a password - default password: "0000"
 - The password is at the top of the source code. (Attention #chmod 700 Shell_Lock.sh)
